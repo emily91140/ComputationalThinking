@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>2b348f3f-997b-4598-bf80-39800219d8c3</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ComputationalThinking\LinkedList_concatenation.py</StartupFile>
+    <StartupFile>ComputationalThinking\LinkedList_delete.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ComputationalThinking\LinkedList_concatenation.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ComputationalThinking\LinkedList_delete.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ComputationalThinking\LinkedList_insert.py">

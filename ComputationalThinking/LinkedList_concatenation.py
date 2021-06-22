@@ -5,7 +5,7 @@ import random
 def concatlist(ptr1, ptr2):
     ptr = ptr1
     while ptr.next != None: #若此物件非最後一筆
-        ptr = ptr.next
+        ptr = ptr.next #將ptr移至最後
     ptr.next = ptr2 #將 list1 尾端連結至 list2
     return ptr1
 
