@@ -2,9 +2,9 @@ import sys
 
 class Employee:
     def __init__(self):
-        self.num = 0
-        self.salary = 0
-        self.name = ""
+        self.num = 0    #員工編號
+        self.salary = 0 #員工薪水
+        self.name = ""  #員工姓名
         self.next = None
 
 def findNode(head, num):
