@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>2b348f3f-997b-4598-bf80-39800219d8c3</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ComputationalThinking\LinkedList_reverse.py</StartupFile>
+    <StartupFile>ComputationalThinking\Sort.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -38,6 +38,12 @@
     </Compile>
     <Compile Include="ComputationalThinking\main.py" />
     <Compile Include="ComputationalThinking\MatrixAdd.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ComputationalThinking\Recursion.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ComputationalThinking\Sort.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
