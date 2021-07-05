@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>2b348f3f-997b-4598-bf80-39800219d8c3</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ComputationalThinking\Sort.py</StartupFile>
+    <StartupFile>ComputationalThinking\BinaryTree_Search.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,15 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="ComputationalThinking\BinaryTree_Array.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ComputationalThinking\BinaryTree_LinkedList.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ComputationalThinking\BinaryTree_Search.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="ComputationalThinking\LinkedList.py">
       <SubType>Code</SubType>
     </Compile>
