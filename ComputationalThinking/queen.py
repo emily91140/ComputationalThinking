@@ -1,9 +1,7 @@
-global queen
-global number
-global EIGHT
 #決定皇后要放的位置
 def decide_position(col_value):
     global queen
+    global EIGHT
     row = 0
     while row < EIGHT:
         if is_attack(row, col_value) != 1:
