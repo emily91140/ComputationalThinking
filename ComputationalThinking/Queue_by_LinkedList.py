@@ -49,7 +49,7 @@ def show_all_queue():
 if __name__ == '__main__':
     #初始化定位點
     front = rear = None
-
+    #主程式
     selection = 0
     while True:
         selection = int(input('[1]存入 [2]取出 [3]顯示 [4]離開:   '))
