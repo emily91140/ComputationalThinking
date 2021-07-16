@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>2b348f3f-997b-4598-bf80-39800219d8c3</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ComputationalThinking\Stack_by_LinkedList.py</StartupFile>
+    <StartupFile>ComputationalThinking\queen.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -53,6 +53,9 @@
     </Compile>
     <Compile Include="ComputationalThinking\main.py" />
     <Compile Include="ComputationalThinking\MatrixAdd.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ComputationalThinking\queen.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ComputationalThinking\Recursion.py">
